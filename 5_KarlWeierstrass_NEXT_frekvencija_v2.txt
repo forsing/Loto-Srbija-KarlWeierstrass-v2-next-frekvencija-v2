@@ -1,0 +1,124 @@
+5_KarlWeierstrass_NEXT_frekvencija_v2
+============================================================
+
+Izvor: 12 NEXT TXT fajlova (8 originalna + 4 nova POGODNO modela).
+Placeholder (1,2,3,4,5,6,7) izbacen, duplikati unutar fajla obrisani.
+
+Kombinacije po fajlu:
+------------------------------------------------------------
+NEXT1  [3_KarlWeierstrass_NEXT1_2a3b.txt]  combos: 4  OK
+    (1, x, 13, y, 31, z, 39)
+    (2, x, 14, y, 25, z, 39)
+    (3, x, 9, y, 23, z, 37)
+    (4, x, 19, y, 23, z, 32)
+
+NEXT2  [3_KarlWeierstrass_NEXT2_2a3c.txt]  combos: 4  OK
+    (1, x, 12, y, 16, z, 39)
+    (1, x, 11, y, 22, z, 32)
+    (3, x, 23, y, 29, z, 37)
+    (5, x, 16, y, 29, z, 37)
+
+NEXT3  [3_KarlWeierstrass_NEXT3_2a3d.txt]  combos: 4  OK
+    (2, x, 4, y, 11, z, 25)
+    (2, x, 5, y, 20, z, 26)
+    (4, x, 13, y, 22, z, 34)
+    (6, x, 17, y, 21, z, 34)
+
+NEXT4  [3_KarlWeierstrass_NEXT4_2a3e.txt]  combos: 6  OK
+    (3, x, 21, y, 26, z, 33)
+    (1, x, 15, y, 18, z, 37)
+    (2, x, 12, y, 21, z, 38)
+    (4, x, 6, y, 24, z, 31)
+    (6, x, 11, y, 23, z, 26)
+    (7, x, 20, y, 24, z, 32)
+
+NEXT5  [3_KarlWeierstrass_NEXT5_2b3a.txt]  combos: 3  OK
+    (1, x, 6, y, 27, z, 38)
+    (1, x, 23, y, 25, z, 38)
+    (2, x, 13, y, 28, z, 38)
+
+NEXT6  [3_KarlWeierstrass_NEXT6_2b3b.txt]  combos: 3  OK
+    (1, x, 6, y, 15, z, 27)
+    (1, x, 25, y, 31, z, 34)
+    (2, x, 21, y, 34, z, 36)
+
+NEXT7  [3_KarlWeierstrass_NEXT7_2b3e.txt]  combos: 3  OK
+    (1, x, 16, y, 21, z, 36)
+    (2, x, 11, y, 27, z, 36)
+    (4, x, 9, y, 14, z, 25)
+
+NEXT8  [3_KarlWeierstrass_NEXT8_2c3b.txt]  combos: 3  OK
+    (1, x, 14, y, 18, z, 26)
+    (2, x, 19, y, 29, z, 37)
+    (4, x, 13, y, 16, z, 35)
+
+NEXT9  [5_KarlWeierstrass_NEXT9_2a3j.txt]  combos: 5  OK
+    (1, x, 9, y, 17, z, 26)
+    (1, x, 5, y, 11, z, 31)
+    (3, x, 7, y, 19, z, 32)
+    (6, x, 12, y, 24, z, 38)
+    (7, x, 12, y, 22, z, 30)
+
+NEXT10  [5_KarlWeierstrass_NEXT10_2a3k.txt]  combos: 5  OK
+    (1, x, 21, y, 34, z, 38)
+    (1, x, 5, y, 7, z, 38)
+    (2, x, 13, y, 33, z, 38)
+    (3, x, 10, y, 27, z, 34)
+    (4, x, 15, y, 17, z, 34)
+
+NEXT11  [5_KarlWeierstrass_NEXT11_2b3f.txt]  combos: 4  OK
+    (1, x, 12, y, 25, z, 38)
+    (1, x, 8, y, 21, z, 37)
+    (1, x, 10, y, 25, z, 38)
+    (1, x, 19, y, 30, z, 38)
+
+NEXT12  [5_KarlWeierstrass_NEXT12_2b3h.txt]  combos: 3  OK
+    (1, x, 17, y, 24, z, 34)
+    (3, x, 5, y, 14, z, 32)
+    (4, x, 9, y, 32, z, 39)
+
+------------------------------------------------------------
+UKUPNO jedinstvenih kombinacija (bez placeholder-a): 47
+
+Frekvencija pojavljivanja brojeva 1..39 (sort: count desc, broj desc):
+------------------------------------------------------------
+  rang    broj     count
+  1          1        19
+  2          x        16
+  3         21        14
+  4          x        13
+  5          x        13
+  6         38        12
+  7         37        10
+  8         32        10
+  9         24        10
+  10         2        10
+  11        34         9
+  12        20         9
+  13        19         9
+  14        17         9
+  15        16         9
+  16        15         9
+  17        10         9
+  18         7         9
+  19         5         9
+  20         3         9
+  21        13         8
+  22        11         8
+  23         9         8
+  24        30         7
+  25        26         7
+  26        23         7
+  27        31         6
+  28        29         6
+  29        28         6
+  30        27         6
+  31        14         6
+  32        12         6
+  33         8         6
+  34        35         5
+  35        22         5
+  36        18         5
+  37        39         4
+  38        36         3
+  39        33         3
